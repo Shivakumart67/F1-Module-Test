@@ -1,0 +1,45 @@
+/* *{
+    margin-left: 5px;
+    margin-right: 5px;
+} */
+nav, .accordion, .table ,form, h5{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#carouselExampleCaptions{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ul a{
+    color: #0D6EFD !important;
+    Font-size: 16px !important;
+    font-weight: 400 !important;
+}
+ul a:hover{
+    color: black !important;
+}
+.sample{
+    height: 30px;
+    background-color: aquamarine;
+    border: #0D6EFD;
+}
+
+
+/* @media (max-width: 992px){
+    *{
+        margin-left: 1px;
+        margin-right: 2px;
+    }
+} */
+.tablses a{
+    text-decoration: none;
+    padding: 8px;
+}
+.navbar-brand{
+    display: none;
+}
+@media (max-width: 786px) {
+    .navbar-brand{
+        display: contents;
+    }
+}
